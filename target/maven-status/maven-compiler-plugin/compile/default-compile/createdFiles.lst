@@ -1,0 +1,4 @@
+nl\hu\fnt\gsos\service\ServiceProvider.class
+nl\hu\fnt\gsos\rest\HelloWorldService.class
+nl\hu\fnt\gsos\service\Track.class
+nl\hu\fnt\gsos\service\TrackServiceImpl.class
